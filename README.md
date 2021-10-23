@@ -194,6 +194,14 @@ weights:       载入模型，进行断点继续训练
 ```
 即可开始训练。
 
+##### 训练过程
+
+![](cam/train.jpg)
+
+##### 训练结果
+
+![](cam/result.png)
+
 ### 4. 测试模型
 
 ![](cam/2.png)
@@ -213,6 +221,12 @@ weights：       训练得到的模型权重文件的路径
  python detect.py
 ```
 即可开始检测。
+
+##### 测试结果
+
+![](cam/test.jpg)
+
+![](cam/test_re.jpg)
 
 ### 5.通过flask部署
 
