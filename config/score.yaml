@@ -1,0 +1,7 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ./datasets/traindata/images/train/
+val: ./datasets/traindata/images/val/
+# number of classes
+nc: 20
+# class names
+names: ["aeroplane","bicycle","bird","boat","bottle","bus","car","cat","chair","cow","diningtable","dog","horse","motorbike","person","pottedplant","sheep","sofa","train","tvmonitor"]
