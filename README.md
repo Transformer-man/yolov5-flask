@@ -15,7 +15,10 @@
 
 #### Windows，请使用 pycocotools-windows 代替 pycocotools
 
-
+#### Check all dependencies installed
+```
+pip install -r requirements.txt
+```
 ### 1.准备数据集
 
 这里以PASCAL VOC数据集为例，[提取码： 07wp](https://pan.baidu.com/s/1u8k9wlLUklyLxQnaSrG4xQ)
